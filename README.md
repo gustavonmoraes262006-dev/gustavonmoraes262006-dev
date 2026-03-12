@@ -1,6 +1,6 @@
-<h1 align="center">✦ About Me ✦</h1>
+<h1 align="center">Just a little about Me!</h1>
 
-- 👋 Hello! I'm Gustavo
+- 👋 Hello! I'm Gustavo Neves
 - 🎓 Information Systems student at **USP**
 - 💻 Languages: C, Python, Java
-- 📚 Learning: Data Science and Machine Learning
+- 📚 Focus: Data Science and Machine Learning
