@@ -4,6 +4,7 @@
 - 🎓 Information Systems student at **USP**
 - 💻 Languages: C, Python, Java
 - 📚 Focus: Data Science and Machine Learning
+- [Linkedin](https://www.linkedin.com/in/gustavo-neves-moraes-940010354/)
 
 <p align="center">
   <img src="https://media.giphy.com/media/wK2Oba3cqcpOz7YjMP/giphy.gif" width="350">
