@@ -6,5 +6,5 @@
 - 📚 Focus: Data Science and Machine Learning
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/v5lxzTqe79AAAAAd/outer-wilds.gif" width="350">
+  <img src="https://media.giphy.com/media/wK2Oba3cqcpOz7YjMP/giphy.gif" width="350">
 </p>
